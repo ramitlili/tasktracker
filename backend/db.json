@@ -17,6 +17,12 @@
       "day": "test",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "asd",
+      "day": "asd",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
