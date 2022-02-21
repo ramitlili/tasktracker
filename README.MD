@@ -7,9 +7,7 @@ this project uses JSON-server as a Backend.
 
 ### First Step: install and run Docker 
 
-```
 https://docs.docker.com/get-docker/
-```
 
 ### Second Step: run this commande line
 
