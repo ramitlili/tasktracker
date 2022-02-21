@@ -1,34 +1,18 @@
 # Task Tracker App
 
-Ce projet utilise JSON-server comme un "fake" Backend.
+this project uses JSON-server as a Backend.
 
 
 ## Usage
 
-### Install dependencies
+### First Step: install and run Docker 
 
 ```
-npm install
+https://docs.docker.com/get-docker/
 ```
 
-### Run Angular server (http://localhost:4200)
+### Second Step: run this commande line
 
 ```
-ng serve
-```
-
-### Run the JSON server (http://localhost:5000)
-
-```
-npm install -g json-server 
-```
-
-```
-npm run server
-```
-
-### To build for production
-
-```
-ng build
+docker-compose up 
 ```
