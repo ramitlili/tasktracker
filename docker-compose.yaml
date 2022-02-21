@@ -6,11 +6,12 @@ serviceFront:
     volumes:
       - ./frontend:/tasktracker
       - /tasktracker/node_modules
+
 serviceBack:
   web:
     build: backend
     ports:
-      - 4200:4200
+      - 5000:5000
     volumes:
       - ./backend:/tasktracker
       - /tasktracker/node_modules
