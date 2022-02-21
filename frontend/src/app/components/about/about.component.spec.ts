@@ -22,3 +22,7 @@ describe('AboutComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+function expect(component: AboutComponent) {
+  throw new Error('Function not implemented.');
+}
+
