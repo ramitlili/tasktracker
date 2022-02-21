@@ -20,6 +20,10 @@ ng serve
 ### Run the JSON server (http://localhost:5000)
 
 ```
+npm install -g json-server 
+```
+
+```
 npm run server
 ```
 
